@@ -1,0 +1,6 @@
+:8000 {
+    respond "Hello World 🦄"
+}
+:8001 {
+    respond "Hello friend 🙌"
+}
